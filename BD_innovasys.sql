@@ -174,6 +174,8 @@ correoElectronico varchar(70) not null,
 contraseña varchar(80),
 preguntaSeguridad1 varchar(120),
 preguntaSeguridad2 varchar(120),
+respuestaSeguridad1 varchar(120),
+respuestaSeguridad2 varchar(120),
 telefono int
 );
 
